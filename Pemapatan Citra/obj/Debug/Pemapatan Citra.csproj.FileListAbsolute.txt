@@ -1,0 +1,11 @@
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\bin\Debug\Pemapatan Citra.exe.config
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\bin\Debug\Pemapatan Citra.exe
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\bin\Debug\Pemapatan Citra.pdb
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan Citra.csproj.AssemblyReference.cache
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan Citra.csproj.SuggestedBindingRedirects.cache
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan_Citra.Form1.resources
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan_Citra.Properties.Resources.resources
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan Citra.csproj.GenerateResource.cache
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan Citra.csproj.CoreCompileInputs.cache
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan Citra.exe
+C:\Users\Rizki-PC\source\repos\Pemapatan Citra\Pemapatan Citra\obj\Debug\Pemapatan Citra.pdb
